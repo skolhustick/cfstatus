@@ -1,6 +1,6 @@
 {
   "name": "cfstatus",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Unofficial CLI utility to check Cloudflare System Status.",
   "main": "./lib/getCloudflareStatus.js",
   "scripts": {
@@ -19,7 +19,7 @@
   ],
   "np": {
     "test": false
-	},
+  },
   "author": "Eshwaren M",
   "license": "MIT",
   "dependencies": {
