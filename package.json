@@ -17,6 +17,9 @@
     "cli",
     "nodejs"
   ],
+  "np": {
+    "test": false
+	},
   "author": "Eshwaren M",
   "license": "MIT",
   "dependencies": {
