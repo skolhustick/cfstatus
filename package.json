@@ -9,6 +9,7 @@
   "bin": {
     "cfstatus": "./bin/index.js"
   },
+  "repository": "https://github.com/skolhustick/cfstatus",
   "keywords": [
     "cloudflare",
     "system",
